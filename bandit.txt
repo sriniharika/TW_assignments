@@ -1,0 +1,35 @@
+Level 00 : boJ9jbbUNNfktd78OOpsqOltutMc3MY1      ssh
+Level 01 : CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9		ls,cd,cat,file,du,find
+Level 02 : UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK		ls,cd,cat,file,du,find
+Level 03 : pIwrPrtPN36QITSp3EQaw936yaFoFgAB		ls,cd,cat,file,du,find
+Level 04 : koReBOKuIDDepwhWk7jZC0RTdopnAYKh		ls,cd,cat,file,du,find
+Level 05 : DXjZPULLxYr17uwoI01bNLQbtFemEgo7		ls,cd,cat,file,du,find
+Level 06 : HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs		ls,cd,cat,file,du,find,grep
+Level 07 : cvX2JJa4CFALtqS87jk27qwqGhBM9plV		grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
+Level 08 : UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR		grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
+Level 09 : truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk		 grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
+Level 10 : IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR		 grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
+Level 11 : 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu		 grep, sort, uniq, strings, base64, tr, tar, gzip, bzip2, xxd
+Level 12 : 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL		ssh, telnet, nc, openssl, s_client, nmap
+Level 13 : 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e		ssh, telnet, nc, openssl, s_client, nmap
+Level 14 : BfMYroe26WYalil77FoDi9qh59eK5xNr		ssh, telnet, nc, openssl, s_client, nmap
+Level 15 : cluFn7wTiGryunymYOu4RcffSxQluehd		ssh, telnet, nc, openssl, s_client, nmap
+Level 16 : xLYVMN9WE5zQ5vHacb0sZEVqbrp7nBTn		ssh, telnet, nc, openssl, s_client, nmap
+Level 17 : kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd		cat, grep, ls, diff
+Level 18 : IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x		ssh, ls, cat
+Level 19 : GbKksEFF4yrVs6il55v6gwY5aVje5f0j		setuid
+Level 20 : gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr		ssh, nc, cat, bash, screen, tmux, Unix ‘job control’
+Level 21 : Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI		cron, crontab, crontab
+Level 22 : jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n		
+Level 23 : UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ
+Level 24 : uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG
+Level 25 : 5czgV9L3Xx8JPOyRbXh6lQbmIOWvPT6Z
+Level 26 : 3ba3118a22e93127a4ed485be72ef5ea
+Level 27 : 0ef186ac70e04ea33b4c1853d2526fa2
+Level 28 : bbc96594b4e001778eee9975372716b2
+Level 29 : 5b90576bedb2cc04c86a9e924ce42faf
+Level 30 : 47e603bb428404d265f59c42920d81e5
+Level 31 : 56a9bf19c63d650ce78e6ec0354ee45e
+Level 32 : c9c3199ddf4121b10cf581a98d51caee
+
+
